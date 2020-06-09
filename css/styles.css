@@ -36,6 +36,10 @@ body {
 .navbar-dark {
     background-color: #512DA8;
 }
-/* #card {
-    background-color: yellow;
-} */
+
+.tab-content {
+    border-left: 1px solid #dddddd;
+    border-right: 1ox solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+    padding: 10px;
+}
