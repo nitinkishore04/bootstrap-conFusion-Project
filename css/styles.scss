@@ -76,3 +76,14 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+
+.modal-header {
+    background-color: #512DA8;
+    color: floralwhite;
+    button {
+        color: floralwhite;
+    }
+  }
+  .modal-body {
+    background-color: #d1c5e8;
+  }
