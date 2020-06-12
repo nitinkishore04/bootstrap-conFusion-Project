@@ -19,6 +19,4 @@ $(document).ready(function(){
     $('#reservation-button-group').attr("data-toggle","buttons");
     $('#reserve-table-button').attr("data-target","#reservetablemodal");
     $('#login-button').attr("data-target","#loginModal");
-
-    
 });
